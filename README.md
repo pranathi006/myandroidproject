@@ -6,7 +6,7 @@ A gardening app illustrating Android development best practices with migrating a
 Jetpack Compose. To learn about how Sunflower was migrated to Compose, see the 
 [migration journey](https://github.com/android/sunflower/blob/main/docs/MigrationJourney.md) document.
 
-> [!Note]
+> [!Note]   
 > To see the original View implementation of Sunflower, checkout the [`views`](https://github.com/android/sunflower/tree/views) branch.
 
 ## Screenshots
